@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# macOS
+.DS_Store
+
+# Data (large files — track with Git LFS if needed)
+Data/*.xlsx
+
+# Outputs
+*.png
+*.pdf
+*.csv

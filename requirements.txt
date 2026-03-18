@@ -1,0 +1,12 @@
+numpy
+pandas
+openpyxl
+matplotlib
+scikit-learn
+qiskit
+qiskit-aer
+xgboost
+catboost
+shap
+jupyter
+ipykernel
